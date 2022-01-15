@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta charset="UTF-8" />
+    <meta property="og:title" content="discord-button-page"/>
+    <meta property="og:image" content="/img/DBP-Icon.png" />
+    <meta property="og:description" content="A website documentation about discord-button-page"/>
+
+    <link rel="shortcut icon" href="/img/DBP-Icon.png"/>
+    <meta name="theme-color" content="#007df9">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>discord-button-page</title>
+    
     <link
       type="text/css"
       rel="stylesheet"
