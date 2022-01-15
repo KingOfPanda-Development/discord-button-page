@@ -80,45 +80,45 @@
       <li class="nav-heading">Classes</li>
         <li class="nav-heading">
           <span class="nav-item-type type-class">C</span>
-          <span class="nav-item-name"><a href="/docs/v13/classes/InteractionButtonPages">InteractionButtonPages</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/classes/InteractionButtonPages.html">InteractionButtonPages</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type type-class">C</span>
-          <span class="nav-item-name"><a href="/docs/v13/classes/InteractionReactionPages">InteractionReactionPages</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/classes/InteractionReactionPages.html">InteractionReactionPages</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type type-class">C</span>
-          <span class="nav-item-name"><a href="/docs/v13/classes/MessageButtonPages">MessageButtonPages</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/classes/MessageButtonPages.html">MessageButtonPages</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type type-class">C</span>
-          <span class="nav-item-name"><a href="/docs/v13/classes/MessageReactionPages">MessageReactionPages</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/classes/MessageReactionPages.html">MessageReactionPages</a></span>
         </li>
 
       <li class="nav-heading">Typedefs</li>
         <li class="nav-heading">
           <span class="nav-item-type typedefs">T</span>
-          <span class="nav-item-name"><a href="/docs/v13/typedefs/InteractionButtonPagesOptions">InteractionButtonPagesOptions</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/typedefs/InteractionButtonPagesOptions.html">InteractionButtonPagesOptions</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type typedefs">T</span>
-          <span class="nav-item-name"><a href="/docs/v13/typedefs/InteractionReactionPagesOptions">InteractionReactionPagesOptions</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/typedefs/InteractionReactionPagesOptions.html">InteractionReactionPagesOptions</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type typedefs">T</span>
-          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageButtonColor">MessageButtonColor</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageButtonColor.html">MessageButtonColor</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type typedefs">T</span>
-          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageButtonPagesOptions">MessageButtonPagesOptions</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageButtonPagesOptions.html">MessageButtonPagesOptions</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type typedefs">T</span>
-          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageChannelType">MessageChannelType</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageChannelType.html">MessageChannelType</a></span>
         </li>
         <li class="nav-heading">
           <span class="nav-item-type typedefs">T</span>
-          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageReactionPagesOptions">MessageReactionPagesOptions</a></span>
+          <span class="nav-item-name"><a href="/docs/v13/typedefs/MessageReactionPagesOptions.html">MessageReactionPagesOptions</a></span>
         </li>
     </nav>
     <!--  -->
@@ -163,7 +163,7 @@
                               <span class="font-semibold"></span>
                               <span>
                                 <code class="blue-link-color">
-                                  <a href="/docs/v13/classes/MessageButtonPages">MessageButtonPages</a>
+                                  <a href="/docs/v13/classes/MessageButtonPages.html">MessageButtonPages</a>
                                 </code>
                               </span>
                             </div>
@@ -171,7 +171,7 @@
                               <span class="font-semibold"></span>
                               <span>
                                 <code class="blue-link-color">
-                                  <a href="/docs/v13/typedefs/MessageButtonPagesOptions">MessageButtonPagesOptions</a>
+                                  <a href="/docs/v13/typedefs/MessageButtonPagesOptions.html">MessageButtonPagesOptions</a>
                                 </code>
                               </span>
                             </div>
@@ -237,7 +237,7 @@
                     <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                   </g>
                 </svg>
-              </a> <<a href="/docs/v13/typedefs/MessageChannelType">MessageChannelType</a>>
+              </a> <<a href="/docs/v13/typedefs/MessageChannelType.html">MessageChannelType</a>>
             </span>
           </span>
 
@@ -432,7 +432,7 @@
                     <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                   </g>
                 </svg>
-              </a> <<a href="/docs/v13/typedefs/MessageButtonColor">MessageButtonColor</a>>
+              </a> <<a href="/docs/v13/typedefs/MessageButtonColor.html">MessageButtonColor</a>>
             </span>
           </span>
 
@@ -573,7 +573,7 @@ option 3 -> For stop button.
                                         <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                       </g>
                                     </svg>
-                                  </a> <<a href="/docs/v13/typedefs/MessageChannelType">MessageChannelType</a>>
+                                  </a> <<a href="/docs/v13/typedefs/MessageChannelType.html">MessageChannelType</a>>
                                 </span>
                               </code>
                             </span>
@@ -604,7 +604,7 @@ option 3 -> For stop button.
                     <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                   </g>
                 </svg>
-              </a> <<a href="/docs/v13/typedefs/MessageChannelType">MessageChannelType</a>>
+              </a> <<a href="/docs/v13/typedefs/MessageChannelType.html">MessageChannelType</a>>
             </span>
           </div>
 
@@ -1273,7 +1273,7 @@ option 3 -> For stop button.
                                         <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                       </g>
                                     </svg>
-                                  </a> <<a href="/docs/v13/typedefs/MessageButtonColor">MessageButtonColor</a>>
+                                  </a> <<a href="/docs/v13/typedefs/MessageButtonColor.html">MessageButtonColor</a>>
                                 </span>
                               </code>
                             </span>
@@ -1304,7 +1304,7 @@ option 3 -> For stop button.
                                         <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                       </g>
                                     </svg>
-                                  </a> <<a href="/docs/v13/typedefs/MessageButtonColor">MessageButtonColor</a>>
+                                  </a> <<a href="/docs/v13/typedefs/MessageButtonColor.html">MessageButtonColor</a>>
                                 </span>
                               </code>
                             </span>
@@ -1335,7 +1335,7 @@ option 3 -> For stop button.
                                         <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                                       </g>
                                     </svg>
-                                  </a> <<a href="/docs/v13/typedefs/MessageButtonColor">MessageButtonColor</a>>
+                                  </a> <<a href="/docs/v13/typedefs/MessageButtonColor.html">MessageButtonColor</a>>
                                 </span>
                               </code>
                             </span>
@@ -1366,7 +1366,7 @@ option 3 -> For stop button.
                     <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
                   </g>
                 </svg>
-              </a> <<a href="/docs/v13/typedefs/MessageButtonColor">MessageButtonColor</a>>
+              </a> <<a href="/docs/v13/typedefs/MessageButtonColor.html">MessageButtonColor</a>>
             </span>
           </div>
 
@@ -1390,7 +1390,7 @@ option 3 -> For stop button.
           <div class="section-returns">
             <p></p>
             Returns: <span class="blue-link-color">
-              <a href="/docs/v13/classes/MessageButtonPages">MessageButtonPages</a>
+              <a href="/docs/v13/classes/MessageButtonPages.html">MessageButtonPages</a>
             </span>
 
             <br />
@@ -1415,7 +1415,7 @@ option 3 -> For stop button.
       prettyPrint();
     </script>
     <script>
-      window.history.pushState("new", 'title', "MessageButtonPages");
+      window.history.pushState("new", 'title', "MessageButtonPages.html");
     </script>
     <script src="/scripts/linenumber.js"></script>
     <script src="/scripts/index.js"></script>
