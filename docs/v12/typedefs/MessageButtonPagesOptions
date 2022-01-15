@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"
+    />
+    <link type="text/css" rel="stylesheet" href="/styles/prettify-tomorrow.css" />
+    <link type="text/css" rel="stylesheet" href="/styles/jsdoc-default.css" />
+    <title>discord-button-page</title>
+
+    <script src="/scripts/prettify/prettify.js"></script>
+    <script src="/scripts/prettify/lang-css.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+    <label for="nav-trigger" class="navicon-button x">
+      <div class="navicon"></div>
+    </label>
+
+    <label for="nav-trigger" class="overlay"></label>
+
+<!-- navbar -->
+    <nav>
+      <li>
+        <div class="relative mt-1">
+          <button id="headlessui-listbox-button-5" type="button" aria-haspopup="true" aria-expanded="false" class="clicksource relative w-full py-1 px-3 text-left flex justify-between items-center dark:text-gray-200 rounded bg-gray-100 dark:bg-[#1d1d1d] border dark:border-[#101010] cursor-pointer">
+            <span class="truncate">v12</span>
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1.2em" height="1.2em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+              <g fill="none">
+                <path d="M19 9l-7 7l-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+              </g>
+            </svg>
+          </button>
+          <div class="listsource">
+            <ul aria-labelledby="headlessui-listbox-button-5" aria-orientation="vertical" id="headlessui-listbox-options-6" role="listbox" tabindex="0" class="absolute w-full mt-1 overflow-auto text-base dark:text-white bg-gray-100 dark:bg-[#1d1d1d] rounded max-h-60 border dark:border-[#101010] focus:outline-none z-40 lg:custom-scroll" aria-activedescendant="headlessui-listbox-option-157">
+              <a href="/">
+                <li value="0" id="headlessui-listbox-option-157" role="option" tabindex="-1" aria-selected="true" class="cursor-default">
+                  <li class="links1 px-3 py-1">
+                    <span class="truncate">welcome</span>
+                  </li>
+                </li>
+              </a>
+              <a class="clickurl">
+                <li value="0" id="headlessui-listbox-option-157" role="option" tabindex="-1" aria-selected="true" class="cursor-default">
+                  <li class="links1 links2 px-3 py-1">
+                    <span class="truncate">v12</span>
+                  </li>
+                </a>
+                </li>
+              </a>
+              <a href="/docs/v13/#/">
+                <li value="0" id="headlessui-listbox-option-157" role="option" tabindex="-1" aria-selected="true" class="cursor-default">
+                  <li class="links1 px-3 py-1">
+                    <span class="truncate">v13</span>
+                  </li>
+                </li>
+              </a>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li class="nav-heading">General</li>
+        <li class="nav-heading">
+          <a href="/docs/v12/#/" class="homes">Home</a>
+        </li>
+        
+      <li class="nav-heading">Classes</li>
+        <li class="nav-heading">
+          <span class="nav-item-type type-class">C</span>
+          <span class="nav-item-name"><a href="/docs/v12/classes/MessageButtonPages">MessageButtonPages</a></span>
+        </li>
+        <li class="nav-heading">
+          <span class="nav-item-type type-class">C</span>
+          <span class="nav-item-name"><a href="/docs/v12/classes/MessageReactionPages">MessageReactionPages</a></span>
+        </li>
+
+      <li class="nav-heading">Typedefs</li>
+        <li class="nav-heading">
+          <span class="nav-item-type typedefs">T</span>
+          <span class="nav-item-name"><a href="/docs/v12/typedefs/MessageButtonColor">MessageButtonColor</a></span>
+        </li>
+        <li class="nav-heading">
+          <span class="nav-item-type typedefs">T</span>
+          <span class="nav-item-name"><a href="/docs/v12/typedefs/MessageButtonPagesOptions">MessageButtonPagesOptions</a></span>
+        </li>
+        <li class="nav-heading">
+          <span class="nav-item-type typedefs">T</span>
+          <span class="nav-item-name"><a href="/docs/v12/typedefs/MessageChannelType">MessageChannelType</a></span>
+        </li>
+        <li class="nav-heading">
+          <span class="nav-item-type typedefs">T</span>
+          <span class="nav-item-name"><a href="/docs/v12/typedefs/MessageReactionPagesOptions">MessageReactionPagesOptions</a></span>
+        </li>
+    </nav>
+    <!--  -->
+
+    <div id="main">
+      <section>
+        <header>
+          <h2>MessageButtonPagesOptions</h2>
+
+          <div class="class-description">
+            <p>Represents the possible options for a MessageButtonPages</p>
+            <br />
+          </div>
+
+          <h3>Types</h3>
+          <div class="class-description">
+            <p class="list blue-link-color">
+              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object" target="_blank" rel="noopener">Object 
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 25 25" class="h-5 w-5 inline-block mb-1" aria-hidden="true">
+                  <g fill="none">
+                    <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                  </g>
+                </svg>
+              </a>
+            </p>
+          </div>
+          
+          <br />
+
+          <h3>Properties</h3>
+          <div class="prose">
+            <div class="grid">
+              <div class="overflow-x-auto lg:custom-scroll border dark:border-gray-600 rounded-md mt-3">
+                <table class="!text-base !text-center !my-0 min-w-max xl:min-w-0">
+                  <thead class="bg-discord-blurple-500 !text-gray-200">
+                    <tr class="!uppercase">
+                      <th class="!p-4 w-96">Paramenter</th>
+                      <th class="!p-4 w-48">Type</th>
+                      <th class="!p-4 w-40">Optional</th>
+                      <th class="!p-4 w-40">Default</th>
+                      <th class="!p-4 w-96">Description</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td class="!pl-2.5 !py-5">embeds</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Array 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a> <<a href="https://discord.js.org/docs.html#/docs/main/stable/class/MessageEmbed" target="_blank" rel="noopener">MessageEmbed</a>>
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>none</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>The embeds of discord.js MessageEmbed</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="!pl-2.5 !py-5">channel</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String" target="_blank" rel="noopener">String 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a> <<a href="/docs/v12/typedefs/MessageChannelType">MessageChannelType</a>>
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>CHANNEL</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>The channel of this MessageButtonPages</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="!pl-2.5 !py-5">messageDM</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String" target="_blank" rel="noopener">String 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a>
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>none</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>This paramenter will send an message/text when the bot success send.</p>
+                        <div class="warn">
+                          This paramenter will work if the options channel is 
+                          <span class="default">
+                            <code>DM</code>
+                          </span> channel
+                        </div>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="!pl-2.5 !py-5">duration</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number" target="_blank" rel="noopener">Number 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a>
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>30000</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>The duration of this MessageButtonPages</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="!pl-2.5 !py-5">countPage</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean" target="_blank" rel="noopener">Boolean 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a>
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>true</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>The count page of this MessageButtonPages</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="!pl-2.5 !py-5">label</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Array 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a> <<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener"> String 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a> >
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>none</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>The label of this MessageButtonPages</p>
+                      </td>
+                    </tr>
+                    <tr>
+                    <td class="!pl-2.5 !py-5">emoji</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Array 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a> <<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener"> String 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a> >
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>["⬅️", "❎", "➡️"]</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>The emoji of this MessageButtonPages</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="!pl-2.5 !py-5">color</td>
+                      <td class="!py-5">
+                        <div>
+                          <div class="docs-type inline-block">
+                            <span class="font-semibold"></span>
+                            <span>
+                              <code class="blue-link-color">
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" target="_blank" rel="noopener">Array 
+                                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24" class="blue-link-color h-5 w-5 inline-block mb-1" aria-hidden="true">
+                                    <g fill="none">
+                                      <path d="M10 6H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4M14 4h6m0 0v6m0-6L10 14" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </g>
+                                  </svg>
+                                </a> <<a href="/docs/v12/typedefs/MessageChannelType">MessageChannelType</a>>
+                              </code>
+                            </span>
+                          </div>
+                        </div>
+                      </td>
+                      <td class="!py-5">
+                        <p>✔️</p>
+                      </td>
+                      <td class="!py-5">
+                        <span class="default">
+                          <code>["PRIMARY", "DANGER", "PRIMARY"]</code>
+                        </span>
+                      </td>
+                      <td class="!pr-2.5 !py-0">
+                        <p>The color of this MessageButtonPages</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+          
+        </header>
+      </section>
+    </div>
+
+    <footer>
+      Generateds by <a href="https://github.com/jsdoc3/jsdoc">JSDoc 3.6.7</a> using the Minami
+      theme.
+    </footer>
+
+    <script>
+      prettyPrint();
+    </script>
+    <script src="/scripts/linenumber.js"></script>
+    <script src="/scripts/index.js"></script>
+  </body>
+</html>
